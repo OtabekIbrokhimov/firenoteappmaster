@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450646537260",
+    "project_id": "fir-note-app-9c14d",
+    "storage_bucket": "fir-note-app-9c14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450646537260:android:8306f12e082069a2a84d89",
+        "android_client_info": {
+          "package_name": "com.example.firenoteappmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450646537260-rhfd97uh8ibcehk4pqg5tp4lvtc0tavi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvU4sHaLepaZvGA1lICrkKTZGRJhTrEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450646537260-rhfd97uh8ibcehk4pqg5tp4lvtc0tavi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
